@@ -1,5 +1,8 @@
 # Why Github
 
+> [!IMPORTANT]
+> This is still a work in progress. If you would like to contribute, please do!
+
 ## What is Github and why are you using it?
 
 Github is a system that allows users to manage and store code and information such as software and, in this case, writing. I'm using GitHub for this purpose because:
@@ -29,11 +32,11 @@ For the purposes of this project, you will need to complete at minimum the follo
 
 [Setting up git](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#2-setting-up-git) - for newbies not interested in terminal/etc, github desktop is fine, will need ssh
 
-[Choosing how to interact with Github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#3-choosing-how-to-interact-with-github) - this section is helpful as it explains how to engage with the browser, etc 
+[Choosing how to interact with Github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#3-choosing-how-to-interact-with-github) - this section is helpful as it explains how to engage with the browser, etc
 
-[Writing on github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#4-writing-on-github) - markdown is your friend this project is entirely in markdown 
+[Writing on github](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account#4-writing-on-github) - markdown is your friend this project is entirely in markdown
 
-> what is markdown?
+> TODO: what is markdown?
 
 ## How do I use this repository?
 
